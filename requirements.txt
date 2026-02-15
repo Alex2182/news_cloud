@@ -1,0 +1,7 @@
+lxml
+newsapi-python
+wordcloud
+pillow
+bs4
+pandas
+matplotlib
